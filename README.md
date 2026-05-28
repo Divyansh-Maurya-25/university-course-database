@@ -117,7 +117,3 @@ university-course-database/
 ```
 
 ---
-
-## Course Context
-
-Project 2 for **CIS 4301 — Information and Database Systems** at the University of South Florida. Group 9 (Divyansh Maurya).
